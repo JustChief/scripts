@@ -1,2 +1,2 @@
 # scripts
-COllection of scripts
+Collection of scripts
